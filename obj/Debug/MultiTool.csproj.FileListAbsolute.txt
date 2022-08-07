@@ -1,0 +1,7 @@
+C:\Users\steven\source\repos\MultiTool\MultiTool\bin\Debug\MultiTool.exe.config
+C:\Users\steven\source\repos\MultiTool\MultiTool\bin\Debug\MultiTool.exe
+C:\Users\steven\source\repos\MultiTool\MultiTool\bin\Debug\MultiTool.pdb
+C:\Users\steven\source\repos\MultiTool\MultiTool\obj\Debug\MultiTool.csproj.AssemblyReference.cache
+C:\Users\steven\source\repos\MultiTool\MultiTool\obj\Debug\MultiTool.csproj.CoreCompileInputs.cache
+C:\Users\steven\source\repos\MultiTool\MultiTool\obj\Debug\MultiTool.exe
+C:\Users\steven\source\repos\MultiTool\MultiTool\obj\Debug\MultiTool.pdb
